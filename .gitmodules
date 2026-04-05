@@ -2,6 +2,6 @@
 	path = external/MacroPlacement
 	url = https://github.com/partcleda/MacroPlacement.git
 	branch = fix-scientific-notation-parsing
-[submodule "submissions/src"]
-	path = submissions/src
-	url = https://github.com/Mark-Pirner/hrt-macro-place-sol
+[submodule "submissions/src/DREAMPlace"]
+	path = submissions/src/DREAMPlace
+	url = https://github.com/limbo018/DREAMPlace.git
